@@ -36,3 +36,5 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 create db by cockroadlabs.cloud
+npx prisma generate
+npx prisma db push (to push your db serverless)
